@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"prettier.useTabs": true,
+		"prettier.singleQuote": false,
+		"editor.formatOnSave": true,
+		"editor.insertSpaces": false,
+		"typescript.tsdk": "node_modules\\typescript\\lib",
+		"typescript.preferences.importModuleSpecifier": "relative",
+		"typescript.preferences.importModuleSpecifierEnding": "js",
+		"javascript.preferences.importModuleSpecifierEnding": "js",
+	},
+}
